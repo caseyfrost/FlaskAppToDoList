@@ -60,4 +60,4 @@ def update(id):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='localhost', port=5002)
+    app.run()
